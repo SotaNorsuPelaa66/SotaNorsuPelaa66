@@ -1,12 +1,9 @@
-### Hi there 👋
+### hi
 
+Some facts:
 
-- 🔭 I’m currently working on something, it may be repositories or just plain gaming
-- 🌱 I’m currently learning sometimes random things
-- 👯 I’m looking to collaborate on nothing?
-- 🤔 I’m looking for help with nothing right now
-- 💬 Ask me about Python
-- 📫 How to reach me: Discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i started using github somewhere around 2022
-
+- I'd like to be called SotaNorsu, enorsu, norsu
+- Python is my favourite programming language
+- I play Minecraft(mainly 1.7.10-1.8.9)
+- I have some basic Kotlin/Java understanding
+- My repositories(especially the old ones) are messy so please ignore them
